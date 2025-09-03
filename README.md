@@ -2,7 +2,7 @@
 
 🚀 **Aspiring DevOps Engineer** | 🤝 **Team Player**  
 
-I love solving real-world problems with technology, especially in **DevOps, Cloud, and Full-Stack Development**.  
+I love solving real-world problems with technology, especially in **DevOps, Cloud**.  
 My goal is to work with professional teams to deliver scalable, reliable, and impactful solutions.  
 
 ---
