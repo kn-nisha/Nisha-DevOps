@@ -12,14 +12,17 @@ My goal is to work with professional teams to deliver scalable, reliable, and im
 | Category | Tools |
 |----------|-------|
 | Programming & Scripting | Python,  Bash |
-| Databases | MySQL, MongoDB |
+| Databases | MySQL, MongoDB, PostgreSQL, RDS, Redis |
 | DevOps & Cloud | Docker, Kubernetes, Jenkins, Terraform, Ansible, AWS, GCP |
-| Monitoring & Logging | Prometheus, Grafana, ELK Stack |
-| Web Servers & Tools | Nginx, Apache |
+| Monitoring & Logging | Prometheus, Grafana, ELK Stack, CloudWatch |
+| Web Servers | Nginx, Apache |
 | Security & Identity Management | Okta, Sophos |
 | Collaboration & Project Management | Miro, Confluence, YouTrack |
-| Version Control & CI/CD | Git, GitHub, GitLab CI/CD |
-| IDEs & OS | VSCode, Linux, Windows |
+| CI/CD & GitOps | Git, GitHub, GitLab CI/CD, Argo CD |
+| IDEs | VSCode |
+| OS | Linux, Windows |
+| IDP & Security | Okta, SOPHOS |
+| Domain Hosting & CDN | Netlify, Cloudflare |
 
 
 <!-- ## 🛠️ Tech Stack & Tools  
